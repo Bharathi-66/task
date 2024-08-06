@@ -1,0 +1,42 @@
+.one
+{
+    background-image:url("cofee1.jpeg");
+    background-size: 100%  300px ;
+    background-color: aliceblues;
+    height:300px;
+    width:100%;
+    background-repeat:no-repeat;
+    z-index:1;
+    
+}
+.three
+{
+    background-image:url("cofee.jpeg");
+    z-index: 2;
+}
+.two{
+    text-decoration: chocolate;
+    text-align: right;
+    letter-spacing:2px;
+    word-spacing:3px;
+    line-height:50px;
+}
+   .b
+   {
+    margin-left: 40%;
+    margin-top:90%
+   }
+.two
+{
+    z-index: index 1;;
+    }
+.c
+{
+   flex-grow: 1;
+   padding :20px;
+}
+.e{
+    float:left;
+}
+
+
